@@ -1,8 +1,8 @@
-# nexter-with-grid-system
+# Nexter landing page using grid
 
 [See live demo](https://sazid-hasan.github.io/nexter-using-grid/)
 
-## Tools used in this project:
+## Main tools used in this project:
 1. CSS and SASS
 2. BEM(Block Element Modifier) system
 3. CSS Grids
